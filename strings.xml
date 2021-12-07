@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NAV</string>
+    <string name="nav0">Khác</string>
+    <string name="nav1">Công cụ</string>
+    <string name="nav2">Tin tức , phát hiện</string>
+    <string name="nav3">Cài đặt</string>
+    <string name="nav4">Giới thiệu</string>
+    <string name="nav5">Hướng dẫn sử dụng</string>
+    
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+
+</resources>
